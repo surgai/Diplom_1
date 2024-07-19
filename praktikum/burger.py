@@ -28,9 +28,6 @@ class Burger:
     def move_ingredient(self, index: int, new_index: int):
         self.ingredients.insert(new_index, self.ingredients.pop(index))
 
-        print(index)
-        print(new_index)
-
     def get_price(self) -> float:
         price = self.bun.get_price() * 2
 
