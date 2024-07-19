@@ -34,6 +34,11 @@ class TestBurger:
         burger.remove_ingredient(0)
         assert len(burger.ingredients) == 0
 
+    #переместить ингридиент
+    def test_move_ingredient_success_new_index_in_ingredient(self, mock_add_ingredients):
+        ingredient = mock_add_ingredients.ingredients[0]
+        mock_add_ingredients.move_ingredient(1, 0)
+        assert mock_add_ingredients.ingredients[1] == ingredient
     #получение цены бургера
     def test_get_price(self):
         burger = Burger()

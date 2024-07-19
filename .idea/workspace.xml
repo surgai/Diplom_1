@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c6f6a2-9fd0-471d-8c33-a0b370a77fe6" name="Changes" comment="" />
+    <list default="true" id="51c6f6a2-9fd0-471d-8c33-a0b370a77fe6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Diplom_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Diplom_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4___init___py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4___init___py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_bun_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_bun_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_burger_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_burger_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_database_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_database_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_ingredient_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_ingredient_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_ingredient_types_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_ingredient_types_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_praktikum_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/d_c68eb0c7512457e4_praktikum_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlcov/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/htmlcov/status.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum/burger.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum/burger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_burger.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_burger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/_pytest/cacheprovider.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/_pytest/cacheprovider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/colorama-0.4.6.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/colorama-0.4.6.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-7.4.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage-7.4.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/html.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/coverage/html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-24.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-24.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pytest-8.1.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytest-8.1.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/coverage-3.12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/coverage-3.12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/coverage.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/coverage.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/coverage3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/coverage3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/py.test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/py.test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pytest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pytest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,17 +65,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/Diplom_1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python tests.pytest in test_burger.py.executor": "Run",
+    "Python.burger.executor": "Run",
+    "Python.database.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/User/Diplom/Diplom_2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\Diplom_1\praktikum" />
